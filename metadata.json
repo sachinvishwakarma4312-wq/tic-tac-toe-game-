@@ -1,0 +1,5 @@
+{
+  "name": "Neon Pulse: Tic Tac Toe & Music",
+  "description": "A dark neon-themed application combining a classic Tic Tac Toe game with a sleek music player.",
+  "requestFramePermissions": []
+}
